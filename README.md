@@ -1,25 +1,57 @@
-# Xin chào, mình là Bùi Ngọc Yên 👋
+<img src="./assets/profile-banner.svg" alt="Bùi Ngọc Yên — Frontend Engineer. A visual study of thoughtful interface design." width="100%" />
 
-Mình đang học **AI Engineering** bằng cách đi từ nguyên lý đến thực nghiệm: tìm hiểu cách một hệ thống hoạt động, tự triển khai những phần nền tảng, kiểm thử và ghi lại điều đã kiểm chứng.
+<div align="center">
 
-## Dự án đang thực hiện
+<sub>FRONTEND ENGINEERING&nbsp; / &nbsp;INTERFACE CRAFT&nbsp; / &nbsp;BUILT WITH INTENT</sub>
 
-### [AI Engineering Journey](https://github.com/jinjutroy/ai-engineering-journey)
+# Bùi Ngọc Yên
 
-Một phòng thực hành dài hạn về kỹ thuật AI, với lộ trình từ nền tảng lập trình và toán học đến mô hình, đánh giá và vận hành hệ thống. Repository này ghi lại tài liệu học, mã nguồn và các bài kiểm thử. [Xem lộ trình](https://github.com/jinjutroy/ai-engineering-journey/blob/main/ROADMAP.md) · [Xem tiến độ hiện tại](https://github.com/jinjutroy/ai-engineering-journey/blob/main/PROGRESS.md)
+### Frontend Engineer
 
-Một số ví dụ đã có trong repository:
+I build interfaces that make complex things feel clear.<br />
+My focus is the whole experience: structure, interaction, accessibility, and the details that hold up in everyday use.
 
-- **Linear regression với NumPy:** tự tính gradient và huấn luyện bằng gradient descent. [Mã nguồn](https://github.com/jinjutroy/ai-engineering-journey/blob/main/src/ai_journey/linear_regression.py) · [Kiểm thử](https://github.com/jinjutroy/ai-engineering-journey/blob/main/tests/test_linear_regression.py)
-- **Automatic differentiation:** một bộ máy đạo hàm tự động dạng scalar để quan sát đồ thị tính toán và quy tắc dây chuyền. [Mã nguồn](https://github.com/jinjutroy/ai-engineering-journey/blob/main/src/ai_journey/autodiff.py) · [Kiểm thử](https://github.com/jinjutroy/ai-engineering-journey/blob/main/tests/test_autodiff.py)
-- **Scaled dot-product attention:** tính attention với NumPy, gồm softmax ổn định và causal mask. [Mã nguồn](https://github.com/jinjutroy/ai-engineering-journey/blob/main/src/ai_journey/attention.py) · [Kiểm thử](https://github.com/jinjutroy/ai-engineering-journey/blob/main/tests/test_attention.py)
+[Explore Aperture UI Lab](https://jinjutroy.github.io/aperture-ui-lab/) &nbsp;·&nbsp; [View the source](https://github.com/jinjutroy/aperture-ui-lab) &nbsp;·&nbsp; [Browse repositories](https://github.com/jinjutroy?tab=repositories)
 
-## Hiện mình đang tập trung vào
+</div>
 
-Giai đoạn định hướng: hiểu các thành phần của một hệ thống AI, ranh giới giữa mô hình và phần còn lại của hệ thống, cũng như cách phân tích lỗi và kiểm chứng đầu ra. Mình đã ghi lại một [bài phân tích thiết kế trợ lý xử lý email bằng AI](https://github.com/jinjutroy/ai-engineering-journey/blob/main/00-orientation/phase00-evidence.md); đây là tài liệu thiết kế, chưa phải ứng dụng đã triển khai.
+---
 
-## Cách mình học
+## 01 / Selected work
 
-**Hiểu → Giải thích → Triển khai → Thử nghiệm → Gỡ lỗi → Đo lường → Kiểm chứng → Ghi chép.**
+### [Aperture UI Lab](https://github.com/jinjutroy/aperture-ui-lab) <sub>· INTERACTIVE UI SYSTEM</sub>
 
-Mình cập nhật kết quả và những phần chưa hoàn thành trong [nhật ký tiến độ](https://github.com/jinjutroy/ai-engineering-journey/blob/main/PROGRESS.md).
+An interactive frontend project exploring how a consistent visual language turns individual components into a coherent product experience. Open the live site to explore the interface, then inspect the source to see the decisions behind it.
+
+**Experience:** [Live demo ↗](https://jinjutroy.github.io/aperture-ui-lab/) &nbsp; **Implementation:** [Source code ↗](https://github.com/jinjutroy/aperture-ui-lab)
+
+<table>
+  <tr>
+    <td valign="top" width="33%"><strong>01&nbsp; / &nbsp;Structure</strong><br />Clear hierarchy, flexible layouts, and a reusable UI language.</td>
+    <td valign="top" width="33%"><strong>02&nbsp; / &nbsp;Interaction</strong><br />Controls and feedback that help people understand what happened and what comes next.</td>
+    <td valign="top" width="33%"><strong>03&nbsp; / &nbsp;Finish</strong><br />Responsive behavior and thoughtful treatment of the small states that shape the whole experience.</td>
+  </tr>
+</table>
+
+### [AI Engineering Journey](https://github.com/jinjutroy/ai-engineering-journey) <sub>· ENGINEERING STUDY</sub>
+
+A public learning lab where I work through AI fundamentals from first principles. It includes tested NumPy implementations of [linear regression](https://github.com/jinjutroy/ai-engineering-journey/blob/main/src/ai_journey/linear_regression.py), [automatic differentiation](https://github.com/jinjutroy/ai-engineering-journey/blob/main/src/ai_journey/autodiff.py), and [scaled dot-product attention](https://github.com/jinjutroy/ai-engineering-journey/blob/main/src/ai_journey/attention.py). The [roadmap](https://github.com/jinjutroy/ai-engineering-journey/blob/main/ROADMAP.md) and [progress log](https://github.com/jinjutroy/ai-engineering-journey/blob/main/PROGRESS.md) show what is complete and what is still in progress.
+
+---
+
+## 02 / How I think about frontend
+
+| Principle | What it means in practice |
+| :-- | :-- |
+| **Clarity before decoration** | Make the next action, the current state, and the content hierarchy easy to understand. |
+| **Interfaces for everyone** | Consider keyboard use, readable contrast, and reduced motion as part of the design. |
+| **Systems over one-offs** | Create patterns that stay consistent as a product grows. |
+| **Quality in the edges** | Give empty, loading, error, and narrow-screen states the same attention as the ideal path. |
+
+---
+
+<div align="center">
+
+<sub>THANKS FOR VISITING. THE WORK IS IN THE DETAILS.</sub>
+
+</div>
